@@ -17,7 +17,7 @@ export default function HomeScreen() {
         <View style={{
             margin:20,
         }}>
-        <NavButton title={"Basics"} onPress={()=>navigation.navigate("Basics")}/>
+        <NavButton title={"Animation Basics"} onPress={()=>navigation.navigate("Basics")}/>
         </View>
     </View>
   )
